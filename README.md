@@ -10,4 +10,5 @@ not bad
 
 ## Local development 
 
-1. open index.html 
+1. open index.html in you browser.
+
